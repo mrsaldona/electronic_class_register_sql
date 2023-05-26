@@ -67,6 +67,7 @@ We will now explain some elements of the proposed solution.
   - id_school subject 
   - name
 
+// https://raw.githubusercontent.com/mrsaldona/electronic_class_register_sql/main/diagrams/Electronic_Class_Register_Schema.PNG
 
 
 
