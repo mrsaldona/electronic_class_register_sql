@@ -67,7 +67,9 @@ We will now explain some elements of the proposed solution.
   - id_school subject 
   - name
 
-// https://raw.githubusercontent.com/mrsaldona/electronic_class_register_sql/main/diagrams/Electronic_Class_Register_Schema.PNG
+##  <div align="center"> 2 - Database schema model </div>
+####    <div align="center">   A detailed description of the possible Entities & Attributes </div> 
+<p align="center">  <img src="https://raw.githubusercontent.com/mrsaldona/electronic_class_register_sql/main/diagrams/Electronic_Class_Register_Schema.PNG" /></p>
 
 
 
